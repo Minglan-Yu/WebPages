@@ -1,0 +1,33 @@
+h1 {
+    color:darkseagreen;text-align:center;
+    background-color:aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+    font-size:300%;
+    margin: 20px;
+}
+
+nav{
+    text-align:center;
+    font-variant: small-caps;
+}
+
+h2{
+    color:coral;text-align:center;
+    background-color:aliceblue;
+}
+
+p{
+    color:darkslategrey;
+    line-height:150%;
+}
+
+footer{
+    background-color:antiquewhite;
+}
+
+/*custom fonts*/
+@font-face {
+    font-family: ;
+    src: url();
+}
