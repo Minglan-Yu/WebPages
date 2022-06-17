@@ -15,16 +15,21 @@ nav{
 h2{
     color:coral;text-align:center;
     background-color:aliceblue;
+    font-variant:small-caps;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height:auto;
 }
 
 p{
     color:darkslategrey;
     line-height:150%;
+    
 }
 
 footer{
     background-color:antiquewhite;
 }
+
 
 /*custom fonts*/
 @font-face {
