@@ -1,0 +1,46 @@
+header{
+    background-color:#f0f8ff;
+    margin:15px;
+}
+
+h1 {
+    color:#6495ed;
+    text-align:center;   
+    font-variant:all-small-caps;
+    font-size:300%;
+}
+
+a{
+    background-color:#d4d8d4;
+    font-size: larger;
+}
+
+aside{
+    display:none;
+}
+
+section{
+    background-color:#faebd7;
+    margin:15px;
+}
+
+h2{
+    color:#2e8b57;
+    text-align:Left;
+    font-variant:all-small-caps;
+    font-size:250%;
+}
+
+p{
+    font-size:16pt;
+}
+
+a{
+    background-color:#d4d8d4;
+    font-size: 16pt;
+}
+
+table{
+    font-size: larger;
+}
+
