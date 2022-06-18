@@ -1,15 +1,21 @@
+body{
+    margin: 20px;
+}
+
 h1 {
     color:darkseagreen;text-align:center;
     background-color:aliceblue;
     font-family: Arial, Helvetica, sans-serif;
     font-variant: small-caps;
     font-size:300%;
-    margin: 20px;
+    border: 2px solid #8fbc8f;
+
 }
 
 nav{
     text-align:center;
     font-variant: small-caps;
+    background-color:#8fbc8f;
 }
 
 h2{
@@ -20,14 +26,25 @@ h2{
     height:auto;
 }
 
+section{
+	width:30%;
+	margin-right: 3%;
+	display:inline-block;
+	float:left;
+}
+
 p{
     color:darkslategrey;
-    line-height:150%;
-    
+    line-height:150%
+}
+
+details{
+	font-style: italic;
 }
 
 footer{
     background-color:antiquewhite;
+    clear: both;
 }
 
 

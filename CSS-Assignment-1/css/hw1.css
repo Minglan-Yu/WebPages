@@ -8,6 +8,7 @@ h1 {
     text-align:center;   
     font-variant:all-small-caps;
     font-size:300%;
+    border:outset 2px #6495ed;
 }
 
 a{
