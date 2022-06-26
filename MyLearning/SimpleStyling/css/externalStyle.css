@@ -19,22 +19,30 @@ header{
 nav{
     text-align:center;
     font-variant: small-caps;
-    background-color:#8fbc8f;
     padding:5px;
+}
+
+/* Descendant selectors */
+nav a{
+    text-align: center;
+    background-color:#8fbc8f;
+    display: inline-block;
+    width:10%;
+    margin-right: 2%;
+    padding:5px;
+}
+
+/* class selector */
+.diff{
+    color:rgb(0, 0, 0);
+    background-color:rgb(223, 174, 174);
+    text-transform:uppercase;
 }
 
 form{ 
     padding-top:5px;
     text-align:center;
 }
-
-/* styling link, if want to make them look like a bottom, use bottom tag directely*/
-/* a{ display:block;
-    font-weight:bold;
-    float:left;
-    width:50px;
-    background-color:#8fbc8f;
-} */
 
 /* when your mouse hangover the link show different style*/
 a:hover {
@@ -64,7 +72,7 @@ h2{
 }
 
 ul{
-    list-style-image:square url('icons8.png');
+    list-style-image:square url('icons8-hand-with-bracelet-100.png');
 }
 
 section{
