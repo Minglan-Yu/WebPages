@@ -50,12 +50,13 @@ nav>a:hover{
 
 aside img{
     width:90%;
-    margin:10% 5% 10% 5%;
+    margin:10% 5%;
     display:block;
-    border:1px solid black;
+    border:1px solid #000000;
+    text-align: center;
 }
 
-.left{
+.left{ 
     width:20%;
     height:1000px;
     display:block;
@@ -73,7 +74,7 @@ aside img{
 }
 
 h2{
-    color:#2e8b57;
+    color:#387c56;
     text-align:Left;
     font-variant:all-small-caps;
     font-size:250%;
@@ -90,3 +91,6 @@ table{
     font-size: larger;
 }
 
+ul{
+    font-size: larger;
+}
