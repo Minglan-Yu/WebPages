@@ -4,9 +4,10 @@ body{
 }
 
 header{
-    background-color:#f0f8ff;
+    background-color:#8fbc8f;
     background-image: url("../images/flywheel.jpg");
     height: 160px;
+    background-size:cover;
 }
 
 h1 {
@@ -50,7 +51,7 @@ nav>a:hover{
 
 aside img{
     width:90%;
-    margin:10% 5%;
+    margin:10% auto;
     display:block;
     border:1px solid #000000;
     text-align: center;
