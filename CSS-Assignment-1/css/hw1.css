@@ -59,7 +59,7 @@ aside img{
 
 .left{ 
     width:20%;
-    height:1000px;
+    height:100vh;
     display:block;
     float:left;
     background-color:#9087399d;
@@ -71,7 +71,7 @@ aside img{
     display:block;
     background-color:#faebd7;
     padding-left:4%;
-    height:1000px;
+    height:100vh;
 }
 
 h2{
