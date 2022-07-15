@@ -106,6 +106,10 @@ table{
     border-spacing: 0;
 }
 
+tr{
+    opacity:60%;
+}
+
 tr:first-child{
     color:#ffffff;
     -webkit-border-radius: 10px 10px 0px 0px;
@@ -128,8 +132,7 @@ th:first-child{
 }
 
 tr:hover{
-    opacity:70%;
-    background-color:#efef9f;
+    opacity:100%;
 }
 
 th {
