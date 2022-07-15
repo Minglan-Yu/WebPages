@@ -133,6 +133,7 @@ th:first-child{
 
 tr:hover{
     opacity:100%;
+    background-color:#d0d0ac;
 }
 
 th {
